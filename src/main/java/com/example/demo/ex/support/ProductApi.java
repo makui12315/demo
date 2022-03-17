@@ -8,6 +8,6 @@ package com.example.demo.ex.support;
 public class ProductApi {
 
     public void print(){
-
+        System.out.println(" ProductApi: print");
     }
 }
